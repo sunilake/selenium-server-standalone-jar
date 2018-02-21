@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/adamhooper/selenium-server-standalone-jar.git"
+    "url": "git://github.com/sunilake/selenium-server-standalone-jar.git"
   },
   "keywords": [
     "selenium",
@@ -16,12 +16,12 @@
     "server",
     "jar"
   ],
-  "author": "Adam Hooper <adam@adamhooper.com>",
+  "author": "Sunil Babu <sunibabu@in.ibm.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/adamhooper/selenium-server-standalone-jar/issues"
+    "url": "https://github.com/sunilake/selenium-server-standalone-jar/issues"
   },
-  "homepage": "https://github.com/adamhooper/selenium-server-standalone-jar",
+  "homepage": "https://github.com/sunilake/selenium-server-standalone-jar",
   "devDependencies": {
     "mocha": "~4.0.1",
     "chai": "~4.1.2"
